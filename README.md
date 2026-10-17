@@ -1,1 +1,1 @@
-# curso_cypress-brunosilva
+# curso-cypress-api-brunosilva
